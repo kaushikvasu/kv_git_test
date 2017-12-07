@@ -1,9 +1,3 @@
-'''
-test.py
-Kaushik 
-12/7/17
-Making changes to test.py file
-'''
 import pandas as pd
 
 class Test():
